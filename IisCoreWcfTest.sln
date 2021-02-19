@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IisCoreWcfTest", "IisCoreWcfTest\IisCoreWcfTest.csproj", "{6A2A2D2A-DBF3-45D2-8DE6-A76D41E102DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A2A2D2A-DBF3-45D2-8DE6-A76D41E102DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A2A2D2A-DBF3-45D2-8DE6-A76D41E102DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A2A2D2A-DBF3-45D2-8DE6-A76D41E102DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A2A2D2A-DBF3-45D2-8DE6-A76D41E102DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6BC5D04-DD37-4B9F-8AC1-1E6152932EB2}
+	EndGlobalSection
+EndGlobal
